@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Bienvenido a mi blog.
+    title: Bienvenido a mi Newsletter.
     content: |
       Frontend Developer
     actions:
