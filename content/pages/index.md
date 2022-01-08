@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Jhon Carlos, web developer.'
     content: |
-      Frontend Developer / Freelancer / JavaScript Begginer
+      Frontend Developer / JavaScript Begginer / Freelancer
     actions:
       - label: Let's talk
         url: /contact
