@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Jhon Carlos,'
+    title: 'Hi, I''m Jhon Carlos, web developer'
     content: |
       Frontend Developer
     actions:
