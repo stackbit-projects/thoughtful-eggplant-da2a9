@@ -8,7 +8,7 @@ sections:
     content: |
       Frontend Developer / JavaScript Begginer / Freelancer
     actions:
-      - label: Let's talk
+      - label: Let's code
         url: /contact
         style: button
   - section_id: latest-projects
