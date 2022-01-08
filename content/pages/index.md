@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi,'
+    title: 'Hi, I'
     content: |
       Frontend Developer
     actions:
