@@ -18,6 +18,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+    subtitle: Here you can find my freelance work and personal projects.
   - section_id: services
     type: section_grid
     title: What We Do
