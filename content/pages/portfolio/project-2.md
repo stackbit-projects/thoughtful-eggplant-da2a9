@@ -2,7 +2,7 @@
 title: Blog institucional UFPS
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: /images/Screenshot_20220109_120901.png
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
