@@ -1,7 +1,7 @@
 ---
 title: Artemisa Plant Shop
 subtitle: Optional Project Subtitle
-date: '0002-05-08'
+date: '2022-05-08'
 thumb_image: /images/Screenshot_20220108_190650.png
 thumb_image_alt: Artemisa Plant Shop page's
 image: images/1.jpg
