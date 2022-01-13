@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://thoughtful-eggplant-da2a9.netlify.app"
+    "domain": "https://thoughtful-eggplant-da2a9.netlify.app",
+    "favicon": "/images/android-chrome-384x384.png"
 }
