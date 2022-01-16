@@ -82,7 +82,7 @@ sections:
         style: button
 seo:
   title: Portfolio ─ jhoncarlosam
-  description: In this site you find
+  description: In this site you will find Jhon Carlos Acevedo Mendoza's projects.
   extra:
     - name: 'og:type'
       value: website
