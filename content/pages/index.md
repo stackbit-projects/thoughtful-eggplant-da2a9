@@ -82,7 +82,7 @@ sections:
         style: button
 seo:
   title: Portfolio ─ jhoncarlosam
-  description: The preview of the Exto theme
+  description: In this site you find
   extra:
     - name: 'og:type'
       value: website
