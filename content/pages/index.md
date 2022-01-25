@@ -94,7 +94,7 @@ seo:
       value: In this site you will find Jhon Carlos Acevedo Mendoza's projects.
       keyName: property
     - name: 'og:image'
-      value: /images/portfolio.png
+      value: /images/portfolio (2)-999d8249.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
