@@ -91,7 +91,7 @@ seo:
       value: Portfolio ─ jhoncarlosam
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: In this site you will find Jhon Carlos Acevedo Mendoza's projects.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
