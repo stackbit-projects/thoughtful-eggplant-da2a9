@@ -15,7 +15,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Portfolio
-    projects_number: 6
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
     subtitle: Here you can find my freelance work and personal projects.
